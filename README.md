@@ -2,7 +2,7 @@
 
 
 
-小巧的JavaScript与Native通信库（JavaScript端实现），拿去即可使用，已经经过项目的检实际检测。
+小巧的JavaScript与Native通信库（JavaScript端实现），拿去即可使用，已经过项目的实际检测。
 
 ### iOS实现
 
