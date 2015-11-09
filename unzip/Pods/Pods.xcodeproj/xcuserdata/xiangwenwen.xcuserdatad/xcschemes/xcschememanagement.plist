@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Masonry.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>WebViewJavascriptBridge.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ZipArchive.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>084BCDA61ECBDAA912EE89F2BE260A16</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4D38C5E3E86344FDCB49C98E6E179FB6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>846F41652CD89AB1AAAD919CCB5C3E81</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D0914AC178BA74B087C36AD907B72839</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
