@@ -1,0 +1,24 @@
+{
+  "name": "cheerful",
+  "version": "1.0.0",
+  "description": "bridge iOSBridge AndroidBridge",
+  "main": "bridge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icepy/cheerful.git"
+  },
+  "keywords": [
+    "bridge",
+    "iOSBridge",
+    "AndroidBridge"
+  ],
+  "author": "icepy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icepy/cheerful/issues"
+  },
+  "homepage": "https://github.com/icepy/cheerful#readme"
+}

@@ -4,13 +4,15 @@
 (function(factory){
 	var root = (typeof self == 'object' && self.self == self && self) ||
             (typeof global == 'object' && global.global == global && global);
-    if (typeof define === 'function' && define.amd) {
-    	define(factory);
-    }else if(typeof exports === 'object'){
-    	module.exports = factory();
-    }else{
-    	root.bridge = factory();
-    }
+    	if (typeof define === 'function' && define.amd) {
+    		define(factory);
+    	}else if(typeof exports === 'object' && typeof module === 'object'){
+ 		module.exports = factory();
+	}else if(typeof exports === 'object'){
+		exports['bridge'] = factory()
+	}else{
+    		root.bridge = factory();
+    	}
 })(function(){
 	var registerFunSigningForNativeHandler,
 		ua = navigator.userAgent,
